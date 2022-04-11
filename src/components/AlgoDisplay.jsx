@@ -6,6 +6,7 @@ import shallow from "zustand/shallow";
 import { SortManager } from "./visualizer/SortManager";
 
 const FlexWrap = styled.div`
+  background:blue;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
